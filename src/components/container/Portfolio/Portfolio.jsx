@@ -75,6 +75,7 @@ const Portfolio = () => {
                 transition={{ duration: 0.3, ease: "easeInOut" }}
                 className="hoverLayer"
               >
+                <span className="job">{work.title}</span>
                 <motion.a
                   href={work.github}
                   target="_blank"

@@ -98,6 +98,7 @@ export const workImages = [
     category: "React",
     live: "https://linkedin-clone-6b544.web.app/",
     github: "https://github.com/rifaturrana/linkedin-clone",
+    title: "Linkedin Clone",
   },
   {
     id: 2,
@@ -106,6 +107,7 @@ export const workImages = [
     category: "React",
     live: "https://weatherapppwarana.netlify.app/",
     github: "https://github.com/rifaturrana/weather-pwa",
+    title: "Weather App",
   },
   {
     id: 3,
@@ -114,6 +116,7 @@ export const workImages = [
     category: "React",
     live: "https://bookdoctoronline.herokuapp.com/",
     github: "https://github.com/rifaturrana/doctorsapp",
+    title: "Book Doctor Online",
   },
   {
     id: 4,
@@ -122,6 +125,7 @@ export const workImages = [
     category: "React",
     live: "https://chat-omega.herokuapp.com/",
     github: "https://github.com/rifaturrana/LiveChatBox",
+    title: "Chat App",
   },
   {
     id: 5,
@@ -130,6 +134,7 @@ export const workImages = [
     category: "React",
     live: "https://github.com/rifaturrana/ema-jon",
     github: "https://github.com/rifaturrana/ema-jon",
+    title: "Ema Jon",
   },
   {
     id: 6,
@@ -138,6 +143,7 @@ export const workImages = [
     category: "React",
     live: "https://github.com/rifaturrana/simple_social_app",
     github: "https://github.com/rifaturrana/simple_social_app",
+    title: "Simple Social App",
   },
   {
     id: 7,
@@ -146,6 +152,7 @@ export const workImages = [
     category: "JavaScript/DOM",
     live: "https://dicegamedombyrt.netlify.app/",
     github: "https://github.com/rifaturrana/Dice_Game_Dom",
+    title: "Dice Game",
   },
   {
     id: 8,
@@ -154,6 +161,7 @@ export const workImages = [
     category: "JavaScript/DOM",
     live: "https://poromodotimer.netlify.app/",
     github: "https://github.com/rifaturrana/pomodoro_timer",
+    title: "Pomodoro Timer",
   },
   {
     id: 9,
@@ -162,6 +170,7 @@ export const workImages = [
     category: "Design",
     live: "https://cssfinal.netlify.app/",
     github: "https://github.com/rifaturrana/bookmark-responsive-design",
+    title: "Responsive Design",
   },
   {
     id: 10,
@@ -170,6 +179,7 @@ export const workImages = [
     category: "design",
     live: "https://sunglass-swag.netlify.app/",
     github: "https://github.com/rifaturrana/SunglassSwag",
+    title: "Sunglass Swag",
   },
 
   {
@@ -179,6 +189,7 @@ export const workImages = [
     category: "Design",
     live: "https://github.com/rifaturrana/ICTasksCSS",
     github: "https://github.com/rifaturrana/ICTasksCSS",
+    title: "Watch Shop",
   },
   {
     id: 12,
@@ -187,6 +198,7 @@ export const workImages = [
     category: "Design",
     live: "https://github.com/rifaturrana/ICTasksCSS",
     github: "https://github.com/rifaturrana/ICTasksCSS",
+    title: "Coffee Shop",
   },
   {
     id: 13,
@@ -195,6 +207,7 @@ export const workImages = [
     category: "Design",
     live: "https://github.com/rifaturrana/ICTasksCSS",
     github: "https://github.com/rifaturrana/ICTasksCSS",
+    title: "Food Shop  Page",
   },
 
   {
@@ -204,6 +217,7 @@ export const workImages = [
     category: "Design",
     live: "https://github.com/rifaturrana/ICTasksCSS",
     github: "https://github.com/rifaturrana/ICTasksCSS",
+    title: "Ecommerce Banner",
   },
 ];
 
